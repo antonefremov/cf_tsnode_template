@@ -1,4 +1,4 @@
-# Based on ["Basic Implementation of Typescript with Node.js ad Express.js"](https://github.com/andregardi/ts-express)
+# Based on ["Basic Implementation of Typescript with Node.js and Express.js"](https://github.com/andregardi/ts-express)
 
 ## Goal
 Create a service template based on TS, which is deployable to the SAP CP CF Environment.
